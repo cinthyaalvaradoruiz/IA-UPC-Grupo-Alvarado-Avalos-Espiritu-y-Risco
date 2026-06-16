@@ -24,7 +24,7 @@ Hsin Chu, Taiwán 30067, R.O.C.
 Correo electrónico: icyeh@chu.edu.tw
 Teléfono: 886-3-5186511
 
-* **Fecha de donación:** 3 de agosto de 2007
+* **Fecha de donación:** 02 de agosto de 2007
 
 * **Publicación de referencia:** I-Cheng Yeh, "Modeling of strength of high performance concrete using artificial neural networks," Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998).
 
